@@ -1,5 +1,3 @@
-Markdown
-
 # My First Website
 
 これはGitHubで練習中の**HTML&CSS**サイトです。
